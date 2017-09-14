@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["niekvenlo@gmail.com"]
 
   spec.summary       = %q{Simple CLI local file tree}
-  spec.description   = %q{Shows a simple visualization of the local file tree}
+  spec.description   = %q{Shows a simple commandline visualization of the local file tree}
   spec.homepage      = ""
   spec.license       = "MIT"
 
